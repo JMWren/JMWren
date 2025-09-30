@@ -1,6 +1,6 @@
 ## About Me  
 
-Hi, I’m **Jordan** - a .NET and Java Developer who first got into programming as a hobby. What began as experimenting with code to improve my own projects has grown into a professional path where I build practical, impactful software. I enjoy solving problems through clean, efficient code and continuously learning new tools and technologies.  
+Hi, I’m **Jordan** - a .NET and Java Developer who first got into programming as a hobby. My programming journey began fairly young with Minecraft and in time became my choice of career path. I try to solve problems with (hopefully...) clean, efficient code and am continually pushing myself to learn new skills and frameworks.
 
 ### Skills and Experience  
 - **Primary Skills:** .NET, Java, SQL, Python, HTML/CSS  
