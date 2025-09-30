@@ -13,4 +13,4 @@ Hi, I’m **Jordan** - a .NET and Java Developer who first got into programming 
 - Containerization  
 
 ### Contact  
-[Email](mailto:jordanmwren@gmail.com)
+My Email: [jordanmwren@gmail.com](mailto:jordanmwren@gmail.com)
